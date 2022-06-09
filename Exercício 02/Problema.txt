@@ -1,0 +1,1 @@
+Gere e imprima uma matriz M 10x10 com valores aleátorios entre 0-9.Após isso indique qual é o maior e o menor valor da linha 5 e qual é o maior e o menor valor da coluna 7.
