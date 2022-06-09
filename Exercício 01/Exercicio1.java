@@ -14,7 +14,7 @@ public class Main {
 
         for (int i=0; i<numerosAleatorios.length; i++){
             for (int j=0; j<numerosAleatorios[i].length; j++){
-                numerosAleatorios[i][j] = numeroRandom.nextInt(100);
+                numerosAleatorios[i][j] = numeroRandom.nextInt(0 , 9);;
             }
         }
 
