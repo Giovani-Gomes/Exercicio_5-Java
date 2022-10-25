@@ -1,4 +1,5 @@
 # Lista de Exercicios 5 <img align="" alt="Java" height="30" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+![GitHub repo size](https://img.shields.io/github/repo-size/Giovani-Gomes/Exercicio_5-Java)
 
  - [x] [Exercício 01 - Gere e imprima uma matriz M 4x4 com valores aleátorios entre 0-9.Após isso determine o maior número da matriz e sua posição(Linha,coluna).](https://github.com/Giovani-Gomes/Exercicio_5-Java/blob/main/Exerc%C3%ADcio%2001/Exercicio1.java)
  - [x] [Exercício 02 - Gere e imprima uma matriz M 10x10 com valores aleátorios entre 0-9.Após isso indique qual é o maior e o menor valor da linha 5 e qual é o maior e o menor valor da coluna 7.](https://github.com/Giovani-Gomes/Exercicio_5-Java/blob/main/Exerc%C3%ADcio%2002/Exercicio2.java)
